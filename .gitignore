@@ -1,0 +1,17 @@
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Drafts not yet ready for the corpus
+drafts/
+*.draft.md
+
+# Local-only Claude state (project-shared config stays committed)
+.claude/settings.local.json
