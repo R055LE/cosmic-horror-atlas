@@ -1,14 +1,14 @@
 ---
-description: Search the atlas for prior art relevant to a CotV design problem
+description: Search the atlas for prior art relevant to a creative design problem
 ---
 
 You are operating against the cosmic-horror-atlas corpus. Read `CLAUDE.md` first if you have not in this session.
 
-This command is the primary bridge between the atlas and Call of the Void. Treat it accordingly.
+This command is the primary bridge between the atlas and downstream creative work. Treat it accordingly. If `CLAUDE.local.md` exists, read it for project-specific context the public corpus does not name.
 
 ## Task
 
-Find prior art relevant to this CotV design problem: **$ARGUMENTS**
+Find prior art relevant to this creative design problem: **$ARGUMENTS**
 
 Steps:
 
@@ -19,13 +19,13 @@ Steps:
 
    - **Entry** — link.
    - **What the source author did** — one or two sentences.
-   - **Why it applies to this CotV problem** — the analogy explicitly.
+   - **Why it applies to the problem at hand** — the analogy explicitly.
    - **What to steal vs. what to adapt** — concrete next moves.
 
 5. End with:
 
    - **If none of these fully fits** — propose a synthesis: a move drawn from combining 2+ entries that would address the gap.
-   - **Coverage gap flag** — if the corpus genuinely lacks prior art for this problem, name it. That's a signal to add entries, not to fabricate fit.
+   - **Coverage gap flag** — if the corpus genuinely lacks prior art for this problem, name it. That is a signal to add entries, not to fabricate fit.
 
 Constraints:
 

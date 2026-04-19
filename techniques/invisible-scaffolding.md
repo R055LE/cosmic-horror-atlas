@@ -27,8 +27,8 @@ The technique requires a willingness to do work the reader will not see. Most wr
 
 It also requires holding back. Tolkien's posthumous publication history — the appendices, *The Silmarillion*, the twelve volumes of *The History of Middle-earth* — eventually exposed most of the scaffolding. There is a real argument that the work was sharper before that exposure, when the reader could only feel that something deep was there without being able to enumerate it. Once the iceberg is lifted out of the water, it is just an ice sculpture.
 
-## CotV application
+## Application
 
-CotV's lore (`call-of-the-void-lore`) is the iceberg. The TCG (`call-of-the-void-tcg`) and any anthology stories are the visible tip. The discipline is to do the deep work in private, never publish it as the deliverable, and let it ground the visible work through behavior rather than exposition.
+For any creative project with deep cosmology behind a published surface, the discipline is to keep the worldbuilding load-bearing but unseen. Do the deep work in private, never publish it as the deliverable, and let it ground the visible work through behavior rather than exposition.
 
 The wiki impulse is the antagonist. A worked-out cosmology is the substrate; a published cosmology is a museum.

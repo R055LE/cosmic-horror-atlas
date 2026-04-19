@@ -18,7 +18,7 @@ Steps:
    - **Tradition / lineage** — where they sit in the cosmic horror genealogy (one paragraph).
    - **Signature moves** — the 3-5 craft choices that distinguish them, each with one supporting concept/technique link.
    - **What they pioneered vs. what they inherited** — separating innovation from execution-of-existing-form.
-   - **What's worth stealing** — concrete, transferable craft moves (especially for CotV).
+   - **What's worth stealing** — concrete, transferable craft moves for downstream work in the genre.
    - **What is not worth inheriting** — failure modes, dated assumptions, weaknesses to avoid.
    - **Open questions** — concepts about this author that the atlas has not yet captured.
 

@@ -28,8 +28,8 @@ The technique, applied positively:
 
 The technique generalizes beyond Lovecraft. Any mythology whose premise is human incomprehension benefits from this discipline. Any mythology whose premise is divine order requires the opposite.
 
-## CotV application
+## Application
 
-The CotV lore/TCG split is structurally the Derleth problem. The TCG must be systematic to play. The lore must remain unsystematic to horrify.
+Any project that pairs a systematized output (a game, an RPG sourcebook, a published bestiary, a wiki) with cosmology-based horror is structurally the Derleth problem. The system must be coherent to function. The cosmology must remain incoherent to horrify.
 
-The resolution is to frame the TCG as one in-fiction *attempt* at cataloguing — by some scholar, sect, or institution within the world — rather than as authoritative. Cards are entries in a flawed bestiary, not the bestiary itself. Lore can then contradict the cards in places, and those contradictions are features, not bugs.
+The resolution is to frame the systematic output as one in-fiction *attempt* at cataloguing — by some scholar, sect, or institution within the world — rather than as authoritative. Game pieces are entries in a flawed bestiary, not the bestiary itself. The deeper material can then contradict the published system in places, and those contradictions are features, not bugs.

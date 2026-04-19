@@ -5,7 +5,7 @@ A curated reference corpus for cosmic horror craft analysis.
 This repo serves two audiences in the same artifact:
 
 1. **Curious readers** — a structured entry point into cosmic horror as a tradition. Not a reading list, not biographical encyclopedia. A map of the moves authors make and why those moves work.
-2. **Claude Code** — a machine-retrievable knowledge base used during work on [Call of the Void](https://github.com/R055LE) (private), the author's cosmic horror anthology. Slash commands surface relevant prior art on demand.
+2. **Claude Code** — a machine-retrievable knowledge base used during downstream creative work. Slash commands surface relevant prior art on demand.
 
 The corpus may expand to other genres over time. Structure and schema are designed for that.
 
@@ -16,7 +16,7 @@ The corpus may expand to other genres over time. Structure and schema are design
 - Not biography. Authors exist here as collections of craft moves.
 - Not quotations of in-copyright work beyond what analysis requires.
 
-The content is original synthesis — that is what makes it useful for both readers and for downstream creative work.
+The content is original synthesis — that is what makes it useful both as a public reference and as a working substrate for creative projects in the genre.
 
 ## Structure
 

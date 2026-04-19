@@ -23,8 +23,8 @@ The mechanic generalizes: dread tracks the gap between what the reader was led t
 
 The implication is that pure cosmic indifference, written without something tangible to lose, deadens rather than horrifies. The reader who is told from page one that nothing matters has been inoculated against the news that nothing matters.
 
-## CotV application
+## Application
 
-CotV's working bias is toward Lovecraftian indifference as ground state. This concept argues against running indifference straight. Establish warmth, intimacy, or local meaning in the foreground — even if the cosmology behind it is hostile and uncaring — so the cosmic frame has something to corrode. The horror is in the corrosion, not in the cosmology.
+A cosmic horror project that runs indifference straight — establishing nothing the reader has reason to love, then revealing a hostile cosmos around it — under-uses the form. The corrective is to establish warmth, intimacy, or local meaning in the foreground first, even if the cosmology behind it is uncaring. The horror lives in the corrosion of those particulars, not in the cosmology by itself.
 
 A working test: would the story still be horror if the protagonist's central attachment were redacted? If yes, the horror is doing the work alone. If no, withheld consolation is doing the work and the story is sharper for it.

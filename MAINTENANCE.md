@@ -23,7 +23,7 @@ Claude Code is instructed to prompt for the first pruning pass when entry count 
 
 An entry survives a pruning pass if it satisfies at least one of:
 
-- **Generative** — has produced at least one downstream insight, technique, or CotV design decision.
+- **Generative** — has produced at least one downstream insight, technique, or creative-work design decision.
 - **Distinct** — captures a move not present elsewhere in the corpus.
 - **Anchoring** — referenced by multiple other entries (high in-link count).
 - **Foundational** — needed for a newcomer to make sense of the rest.

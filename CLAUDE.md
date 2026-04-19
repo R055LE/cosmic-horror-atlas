@@ -5,9 +5,11 @@
 This repo is a curated craft-analysis corpus. Two audiences:
 
 1. Public readers exploring cosmic horror as a tradition.
-2. Claude Code, retrieving prior art when working on **Call of the Void** (private repos: `call-of-the-void-lore`, `call-of-the-void-tcg`).
+2. Claude Code, retrieving prior art for downstream creative work in the genre.
 
-When the user is working in CotV and references this atlas, you are doing knowledge retrieval against a curated index — not free-form web search.
+When the user is working on a creative project and references this atlas, you are doing knowledge retrieval against a curated index — not free-form web search.
+
+Project-specific operational details (which downstream projects, where they live, etc.) live in `CLAUDE.local.md` if present. That file is gitignored.
 
 ## Default behavior
 
@@ -35,9 +37,9 @@ Two to three sentences. Plain language. A reader who only reads this section sho
 
 The substance. Original synthesis. Quote sparingly and only when a specific line is doing analytical work no paraphrase can do.
 
-## CotV application
+## Application
 
-(Optional) How this informs Call of the Void design decisions. Omit the section entirely if not applicable — do not leave a placeholder.
+(Optional) How this informs working creative practice. Omit the section entirely if not applicable — do not leave a placeholder.
 ```
 
 Author files under `authors/` are index-style, not full profiles:
@@ -84,7 +86,7 @@ Project commands live in `.claude/commands/`:
 - `/author-profile <name>` — structured author breakdown
 - `/concept-trace <concept>` — follow a concept across multiple authors
 - `/cross-pollinate <a> <b>` — non-obvious connections between two entries
-- `/find-precedent <problem>` — given a CotV design problem, search the corpus
+- `/find-precedent <problem>` — given a creative design problem, search the corpus
 - `/technique-extract <description>` — identify the craft move underlying a passage
 
 These commands operate against the corpus, not against the open web. If a query has no precedent in the atlas, say so explicitly rather than fabricating.
