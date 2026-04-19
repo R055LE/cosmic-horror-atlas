@@ -3,7 +3,7 @@
 **Type:** technique
 **Sources:** H.P. Lovecraft (the mythos in its original incoherent form); the Derleth reorganization as the failure case
 **Tags:** mythos, epistemic-horror, lovecraft, cosmic-indifference
-**Related:** [inherit-structure-not-surface](../principles/inherit-structure-not-surface.md), [invisible-scaffolding](../techniques/invisible-scaffolding.md), [lovecraft](../authors/lovecraft.md)
+**Related:** [inherit-structure-not-surface](../principles/inherit-structure-not-surface.md), [invisible-scaffolding](invisible-scaffolding.md), [replaced-revenant](replaced-revenant.md), [lovecraft](../authors/lovecraft.md)
 
 ## Summary
 

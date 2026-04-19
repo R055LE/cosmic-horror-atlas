@@ -3,7 +3,7 @@
 **Type:** technique
 **Sources:** J.R.R. Tolkien (*The Silmarillion*, *The History of Middle-earth*, the published novels as the visible tip)
 **Tags:** worldbuilding, tolkien, structural
-**Related:** [withheld-consolation](../concepts/withheld-consolation.md), [unreliable-cosmology](../techniques/unreliable-cosmology.md), [tolkien](../authors/tolkien.md)
+**Related:** [withheld-consolation](../concepts/withheld-consolation.md), [unreliable-cosmology](unreliable-cosmology.md), [diminishment-as-entropy](../concepts/diminishment-as-entropy.md), [tolkien](../authors/tolkien.md)
 
 ## Summary
 

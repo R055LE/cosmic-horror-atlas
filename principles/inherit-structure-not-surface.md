@@ -3,7 +3,7 @@
 **Type:** principle
 **Sources:** H.P. Lovecraft (proof case); Alastair Reynolds, Stanislaw Lem (downstream inheritors)
 **Tags:** inheritance, mythos, cosmic-indifference, lovecraft
-**Related:** [unreliable-cosmology](../techniques/unreliable-cosmology.md), [lovecraft](../authors/lovecraft.md)
+**Related:** [unreliable-cosmology](../techniques/unreliable-cosmology.md), [inversion-as-cosmology-mapping](inversion-as-cosmology-mapping.md), [lovecraft](../authors/lovecraft.md)
 
 ## Summary
 
