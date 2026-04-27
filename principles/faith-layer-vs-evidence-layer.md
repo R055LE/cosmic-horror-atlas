@@ -3,7 +3,7 @@
 **Type:** principle
 **Sources:** J.R.R. Tolkien
 **Tags:** cosmology, epistemic-horror, tolkien, withheld-revelation
-**Related:** [withheld-consolation](../concepts/withheld-consolation.md), [inversion-as-cosmology-mapping](inversion-as-cosmology-mapping.md), [replaced-revenant](../techniques/replaced-revenant.md), [preservation-without-resolution](../techniques/preservation-without-resolution.md), [death-is-what-it-looks-like](../concepts/death-is-what-it-looks-like.md), [diminishment-as-entropy](../concepts/diminishment-as-entropy.md)
+**Related:** [withheld-consolation](../concepts/withheld-consolation.md), [inversion-as-cosmology-mapping](inversion-as-cosmology-mapping.md), [scale-outpaces-comprehension](scale-outpaces-comprehension.md), [pessimism-as-commitment-vs-aesthetic](pessimism-as-commitment-vs-aesthetic.md), [replaced-revenant](../techniques/replaced-revenant.md), [preservation-without-resolution](../techniques/preservation-without-resolution.md), [death-is-what-it-looks-like](../concepts/death-is-what-it-looks-like.md), [diminishment-as-entropy](../concepts/diminishment-as-entropy.md)
 
 ## Summary
 

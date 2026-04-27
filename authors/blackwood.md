@@ -21,11 +21,11 @@ His supernatural-investigator stories (the John Silence series) are weaker and l
 
 ## Techniques drawing on this author
 
-(none yet)
+- [geography-as-antagonist](../techniques/geography-as-antagonist.md) — *The Willows* and *The Wendigo* as the canonical clean cases, where the place is the antagonist with no creature required
 
 ## Principles drawing on this author
 
-(none yet)
+- [scale-outpaces-comprehension](../principles/scale-outpaces-comprehension.md) — *The Willows* island as the physical axis; a finite location the narrator cannot hold a consistent map of
 
 ## Open coverage gaps
 

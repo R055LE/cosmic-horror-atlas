@@ -17,7 +17,7 @@ In-copyright work — paraphrase and analyze, quote sparingly.
 
 ## Concepts drawing on this author
 
-(none yet)
+- [pessimism-as-character-posture](../concepts/pessimism-as-character-posture.md) — *Solaris* as the case where competing stances (Snaut's nihilism, Kelvin's drift) are themselves the substance, with neither offered as the work's settled position
 
 ## Techniques drawing on this author
 
@@ -25,7 +25,7 @@ In-copyright work — paraphrase and analyze, quote sparingly.
 
 ## Principles drawing on this author
 
-(none yet)
+- [scale-outpaces-comprehension](../principles/scale-outpaces-comprehension.md) — *Solaris* as the canonical demonstration of the ontological axis: a competent discipline failing because its categories are wrong, not because its instruments are too weak
 
 ## Open coverage gaps
 

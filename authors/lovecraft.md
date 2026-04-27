@@ -26,6 +26,7 @@ The general principle his case demonstrates — separate structure from surface 
 ## Techniques drawing on this author
 
 - [unreliable-cosmology](../techniques/unreliable-cosmology.md) — internal inconsistency as a horror mechanic
+- [geography-as-antagonist](../techniques/geography-as-antagonist.md) — *Mountains of Madness* and *Innsmouth* as the muddier mixed case, where terrain begins as the antagonist and is overtaken by entities
 
 ## Principles drawing on this author
 
@@ -34,6 +35,5 @@ The general principle his case demonstrates — separate structure from surface 
 ## Open coverage gaps
 
 - The "outsider" framing — narrators who are already estranged before the story starts
-- Geography as character (Innsmouth, Arkham, Antarctica) — place itself as antagonist
 - The use of documents-within-documents (the Necronomicon trick) and why it works structurally
 - Honest treatment of the racism as a craft liability, not just a moral one

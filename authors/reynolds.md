@@ -25,6 +25,7 @@ Worth studying:
 ## Principles drawing on this author
 
 - [inherit-structure-not-surface](../principles/inherit-structure-not-surface.md) — Reynolds as a downstream inheritor
+- [scale-outpaces-comprehension](../principles/scale-outpaces-comprehension.md) — the Inhibitors as the temporal axis; characters who reconstruct behavior but never the interiority behind it
 
 ## Open coverage gaps
 

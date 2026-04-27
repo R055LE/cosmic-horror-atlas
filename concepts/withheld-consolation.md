@@ -3,7 +3,7 @@
 **Type:** concept
 **Sources:** J.R.R. Tolkien, *The Lord of the Rings*
 **Tags:** dread-mechanics, withheld-revelation, hope-as-leverage
-**Related:** [invisible-scaffolding](../techniques/invisible-scaffolding.md), [inversion-as-cosmology-mapping](../principles/inversion-as-cosmology-mapping.md), [faith-layer-vs-evidence-layer](../principles/faith-layer-vs-evidence-layer.md), [preservation-without-resolution](../techniques/preservation-without-resolution.md), [diminishment-as-entropy](diminishment-as-entropy.md), [death-is-what-it-looks-like](death-is-what-it-looks-like.md), [tolkien](../authors/tolkien.md)
+**Related:** [invisible-scaffolding](../techniques/invisible-scaffolding.md), [inversion-as-cosmology-mapping](../principles/inversion-as-cosmology-mapping.md), [faith-layer-vs-evidence-layer](../principles/faith-layer-vs-evidence-layer.md), [scale-outpaces-comprehension](../principles/scale-outpaces-comprehension.md), [pessimism-as-commitment-vs-aesthetic](../principles/pessimism-as-commitment-vs-aesthetic.md), [pessimism-as-character-posture](pessimism-as-character-posture.md), [preservation-without-resolution](../techniques/preservation-without-resolution.md), [diminishment-as-entropy](diminishment-as-entropy.md), [death-is-what-it-looks-like](death-is-what-it-looks-like.md), [tolkien](../authors/tolkien.md)
 
 ## Summary
 

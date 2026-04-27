@@ -19,7 +19,7 @@ Worth being careful about:
 
 ## Concepts drawing on this author
 
-(none yet)
+- [pessimism-as-character-posture](../concepts/pessimism-as-character-posture.md) — Ligotti reread against his own stated views: are his characters projecting Ligottian pessimism, or is the universe in fact Ligottian and they happen to be correct? Both readings sustain the work; the projection reading is more interesting.
 
 ## Techniques drawing on this author
 
@@ -27,7 +27,7 @@ Worth being careful about:
 
 ## Principles drawing on this author
 
-(none yet)
+- [pessimism-as-commitment-vs-aesthetic](../principles/pessimism-as-commitment-vs-aesthetic.md) — Ligotti as the clean demonstration that cosmic horror can rest on an articulated philosophical commitment, with the Zapffe/Mainländer/Schopenhauer lineage as context
 
 ## Open coverage gaps
 

@@ -26,11 +26,13 @@ He also demonstrates the failure mode of his own scaffolding approach: the posth
 - [invisible-scaffolding](../techniques/invisible-scaffolding.md) — build the world deep, show the world shallow
 - [replaced-revenant](../techniques/replaced-revenant.md) — Gandalf the White and the Ringwraiths as structural twins; resurrection rendered indistinguishable from substitution
 - [preservation-without-resolution](../techniques/preservation-without-resolution.md) — Valinor as a sentence; "undying" as a horror word once the consolation framing is removed
+- [geography-as-antagonist](../techniques/geography-as-antagonist.md) — the Old Forest and Barrow-downs as terrain that resents and holds, with the wight reading as an emanation of the place rather than a separate occupant
 
 ## Principles drawing on this author
 
 - [inversion-as-cosmology-mapping](../principles/inversion-as-cosmology-mapping.md) — the methodology of single-wall removal, with Tolkien as the worked example
 - [faith-layer-vs-evidence-layer](../principles/faith-layer-vs-evidence-layer.md) — Tolkien's cosmology stacks consolation in a layer characters cannot access; horror just listens to the evidence
+- [scale-outpaces-comprehension](../principles/scale-outpaces-comprehension.md) — Gandalf's "I will bring no report" read for scale rather than consolation: even the most equipped in-book observer has a remainder he cannot span
 
 ## Open coverage gaps
 
