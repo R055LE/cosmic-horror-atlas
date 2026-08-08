@@ -1,0 +1,26 @@
+# Generated from catalog/fleet.yaml in R055LE/runbook. Do not edit here.
+# Change the source and run `scripts/catalog.py apply`; edits made here
+# are reported as drift and overwritten.
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cosmic-horror-atlas
+  annotations:
+    github.com/project-slug: R055LE/cosmic-horror-atlas
+  tags:
+    - claude-code
+    - cosmic-horror
+    - creative
+    - creative-writing
+    - dataset
+    - knowledge-base
+    - weird-fiction
+    - worldbuilding
+    - writing-craft
+spec:
+  type: dataset
+  lifecycle: production
+  owner: R055LE
+  domain: creative
+  system: writing-craft
+  tier: 3
